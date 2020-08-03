@@ -29,7 +29,7 @@ body{font-family: 'Raleway', sans-serif; background:var(--primary-color);}
 .navbar-modal > ul > li > a:hover::after{width:100%;}
 .scrollspy-active::after{width:100%!important; background:var(--secondary-color)!important;}
 
-.hero{background:url('../images/backgrounds/3238776-2.png'); background-position:right; background-size:cover; background-repeat:no-repeat; background-attachment:fixed; height:100vh; width:100%;}
+.hero{background:url('../images/backgrounds/3238776-2.png'); background-position:right; background-size:cover; background-repeat:no-repeat; height:100vh; width:100%;}
 .hero-welcome-board{position:absolute; top:15%; left:10%; width:80%; overflow-wrap:break-word;}
 .hero-welcome-board > h1{color:var(--primary-color); text-align:center; font-size:calc(2em + 1vw); line-height:1.3; position:absolute; top:10vh;}
 .hero-scroll-down{width:50px; text-align:center; position:absolute; left:50%; bottom:30px; margin-left:-25px; font-size:calc(1em + 1vw);}
